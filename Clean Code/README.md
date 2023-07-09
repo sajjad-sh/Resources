@@ -1,0 +1,10 @@
+# Clean Code:  
+- https://github.com/jupeter/clean-code-php  
+- https://github.com/piotrplenik/clean-code-php
+- Refactoring - Kent Beck and Martin Fowler  
+- The Art of Readble Code - Dustin Boswell and Trevor Foucher  
+- Object Design Style Guide - Matthias Noback  
+- Object-Oriented Systems Desig Course (Refactoring section) - Dr.Ramsin  
+- Laravel PHP Clean Code Resarch (by Sasan Fouladi)  
+- Robert C. Martin's book Clean Code, adapted for PHP  
+- [Refactoring - Dr Ramsin](http://ocw.sharif.edu/course/id/443/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1/%D8%A7%D9%84%DA%AF%D9%88%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1.html)
