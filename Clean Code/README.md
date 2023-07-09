@@ -1,4 +1,4 @@
-# Clean Code:  
+# Clean Code:
 - https://github.com/jupeter/clean-code-php  
 - https://github.com/piotrplenik/clean-code-php
 - Refactoring - Kent Beck and Martin Fowler  
