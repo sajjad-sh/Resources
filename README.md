@@ -10,4 +10,4 @@
 - Secure programming  
 - SQL Complex Queries  
 - Study PHP/Laravel or Backend Posts and News (Jetbrain, ...)  
-- System Design Interview (Alex Xu)  
+- System Design 
